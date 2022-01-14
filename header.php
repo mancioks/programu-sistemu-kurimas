@@ -84,3 +84,4 @@
         </div>
     </div>
 </nav>
+<div class="container is-max-widescreen">
