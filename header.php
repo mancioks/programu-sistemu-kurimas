@@ -6,10 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Eismo įvykio deklaracija</title>
-    <link href="style/output.css" rel="stylesheet">
-    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-    <link href="bootstrap/css/bootstrap-grid.css" rel="stylesheet">
-    <link href="bootstrap/css/bootstrap-reboot.css" rel="stylesheet">
+    <link href="<?php echo $home; ?>style/output.css" rel="stylesheet">
+    <link href="<?php echo $home; ?>bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="<?php echo $home; ?>bootstrap/css/bootstrap-grid.css" rel="stylesheet">
+    <link href="<?php echo $home; ?>bootstrap/css/bootstrap-reboot.css" rel="stylesheet">
 </head>
 <body class="d-flex flex-column min-vh-100">
 <nav class="site-header sticky-top py-2">
