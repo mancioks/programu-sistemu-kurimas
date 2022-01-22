@@ -1,4 +1,4 @@
-<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+<div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light" style="padding-bottom: 90px !important;">
     <div class="col-md-10 p-lg-5 mx-auto my-5">
         <h1 class="display-4 font-weight-normal">Atsitiko eismo įvykis?</h1>
         <p class="lead font-weight-normal">Daugiau jokių popierių! Pasinaudok elektronine Eismo įvykio deklaravimo sistema (EIDS)!</p>

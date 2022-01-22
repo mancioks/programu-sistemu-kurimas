@@ -23,4 +23,9 @@
         <a class="py-2 d-none d-md-inline-block pl-5 text-nav" href="tel:112">Skambinti 112</a>
     </div>
 </nav>
+<style>
+    .container{
+        max-width: 1300px !important;
+    }
+</style>
 <div class="container">

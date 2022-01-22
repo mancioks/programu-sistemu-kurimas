@@ -8,3 +8,7 @@ function debug($data) {
     var_dump($data);
     die();
 }
+
+function redirect($page) {
+    header('location: '.$page);
+}

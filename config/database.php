@@ -3,7 +3,7 @@
 class database{
     private $servername = "localhost";
     private $username = "root";
-    private $password = "";
+    private $password = "root";
     private $dbname = "deklaracija";
 
     public $database = null;
@@ -53,7 +53,11 @@ class database{
             $count++;
         }
         $query = $query.")";
+        //echo $query;
+        return $this->database->query($query);
+    }
 
+    public function update($query) {
         return $this->database->query($query);
     }
 
